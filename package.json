@@ -1,0 +1,22 @@
+{
+  "name": "global-warming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnC27/global-warming.git"
+  },
+  "author": "Evgeniy Khristenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnC27/global-warming/issues"
+  },
+  "homepage": "https://github.com/JohnC27/global-warming#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
